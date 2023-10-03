@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Data analyst.
+Aspiring Data Engineer.
 
 
 ## 🌐 Socials:
